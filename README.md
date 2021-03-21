@@ -1,4 +1,5 @@
 
+
 # 🛤🚂 Rails Stack
 Our preferred list of commonly used Ruby gems, tools &amp; services we like to use for our Rails platforms. 
 
@@ -82,6 +83,8 @@ All pricing below are for a small to medium sized production application with mo
 |[MetaTags](https://github.com/kpumuk/meta-tags)|Page titles, descriptions and meta tags for SEO. 
 |[SitemapGenerator](https://github.com/kjvarga/sitemap_generator)|Generate sitemaps for search engines.
 |[Gon](https://github.com/gazay/gon)|Pass data as variables from backend to Javascript.
+|[Hotwire: Turbo](https://turbo.hotwire.dev)|Speed of single-page web application.
+|[Hotwire: Stimulus](https://stimulus.hotwire.dev)|Modest JavaScript framework for HTML.
 
 
 ## Internal
