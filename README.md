@@ -33,7 +33,7 @@ All pricing below are for a small to medium sized production application with mo
 |Name|Details|Pricing
 |--|--|--|
 |[Cloudflare](https://www.cloudflare.com)|DNS service with request monitoring, DDoS protection and other security features.|[from $0/mo](https://www.cloudflare.com/en-gb/plans/)
-|[RayGun](https://raygun.com)|Production app error monitoring, crash reporting & notifications.|[from $9/mo](https://elements.heroku.com/addons/raygun)
+|[HoneyBadger](https://www.honeybadger.io)|Production app monitoring, crash reporting & notifications.|[from $0/mo](https://www.honeybadger.io/plans/)
 |[Skylight](https://www.skylight.io)|App performance monitoring & insights to optomise for faster app response.|[from $20/mo](https://www.skylight.io/pricing)
 |[Papertrail](https://www.papertrail.com)|Server logs archive and management.|[from $8/mo](https://elements.heroku.com/addons/papertrail)
 |[Lograge](https://github.com/roidrage/lograge)|Tame Rails' request logging.
