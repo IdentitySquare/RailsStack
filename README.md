@@ -72,44 +72,51 @@ All pricing below are for a small to medium sized production application with mo
 |[AASM](https://github.com/aasm/aasm)|State machine.
 
 ### Front-end Helpers 🚇
-* Kaminari
-* bootstrap4_kaminari-views
-* sitemap_generator
-* HAML
-* SASS
-* Simple Forms
-* High Voltage
-* Meta-tags
-* Gon
+|Name|Details|Pricing
+|--|--|--|
+|[HAML](https://github.com/haml/haml-rails)|HTML abstraction markup language to keep the code simple and indented like Ruby.
+|SASS|Rails built-in support for CSS with superpowers.
+|[Pagy](https://github.com/ddnexus/pagy)|Pagination.
+|[Simple Form](https://github.com/heartcombo/simple_form)|Form components & styling.
+|[High Voltage](https://github.com/thoughtbot/high_voltage)|Static pages.
+|[MetaTags](https://github.com/kpumuk/meta-tags)|Page titles, descriptions and meta tags for SEO. 
+|[SitemapGenerator](https://github.com/kjvarga/sitemap_generator)|Generate sitemaps for search engines.
+|[Gon](https://github.com/gazay/gon)|Pass data as variables from backend to Javascript.
 
 
 ## Internal
 
 ### Platform Administration 👨‍💼
-* Active Admin
-* Activeadmin_addons
-* Maily
+|Name|Details|Pricing
+|--|--|--|
+|Option 1: [Forst Admin](https://www.forestadmin.com)|Admin panel as a service.|[from $0/mo](https://www.forestadmin.com/pricing/)
+|Option 2: [Active Admin](https://github.com/activeadmin/activeadmin) & [Addons](https://github.com/platanus/activeadmin_addons)|Admin panel as part of the Rails app.
+
 
 ### Code Quality 👾
-* Strong migrations
-* Breakman
-* Rubocop
-* Codeclimate
+|Name|Details|Pricing
+|--|--|--|
+|[Rubocop](https://github.com/rubocop/rubocop)|Ruby static code analyzer and code formatter. Install auto-correct plugin in your code editor.
+|[Code Climate](https://codeclimate.com/quality/)|Automated code review. Setup Rubycop, [Breakman](https://github.com/presidentbeef/brakeman) and other code review plugins via Code Climate for each PR.|[from $0/mo](https://codeclimate.com/quality/pricing/)
+|[Strong Migrations](https://github.com/ankane/strong_migrations)|Catch unsafe migrations in development.
+|[Bullet](https://github.com/flyerhzm/bullet)|Improve app performance by reducing the number of queries it makes.
 
 ### Automated Testing 🧪
-* RSPEC
-* Shoulda matchers
-* Factory Bot
-* Faker
-* Capybara 
-* Github actions for CI
+|Name|Details|Pricing
+|--|--|--|
+|[RSpec](https://github.com/rspec/rspec)|Testing framework.
+|[factory_bit](https://github.com/thoughtbot/factory_bot)|Define model patters and strategies for testing. 
+|[Faker](https://github.com/faker-ruby/faker)|Mock test data.
+|[Shoulda Matchers](https://github.com/thoughtbot/shoulda-matchers)|One-liner common Rails functionality tests helper.
+|[Capybara](https://github.com/teamcapybara/capybara)|User acceptance testing by simulating how real users would interact with our app.
+|[GitHub Actions](https://github.com/features/actions)|Continuous Integration (CI) setup for each PR.|[3,000 mins/mo](https://github.com/pricing) included with GitHub subscription.
+
 
 ### Development Tools 🛠
-* Better errors
-* awesome print
-* Hirb
-* Bullet
-* Peek
-* Annotate
-* Letter opener 
-* Phrase
+|Name|Details|Pricing
+|--|--|--|
+|[GitHub Teams](https://github.com/team)|Codebase, version control & developer hub.|[$4 per user/mo](https://github.com/pricing)
+|[Better Errors](https://github.com/pricing)|Better and more useful error pages.
+|[Awesome Print](https://github.com/awesome-print/awesome_print)|Pretty print logs and indentation.
+|[Annotate](https://github.com/ctran/annotate_models)|Add summarizing schema as comments for quick reference at the top of files.
+|[Letter Opener](https://github.com/ryanb/letter_opener)|Open and view emails in the browser in development.
