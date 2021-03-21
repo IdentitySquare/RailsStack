@@ -25,27 +25,27 @@ All pricing below are for a small to medium sized production application with mo
 |[Heroku Redis](https://elements.heroku.com/addons/heroku-redis)|Redis as a service.|[from $0/mo](https://elements.heroku.com/addons/heroku-redis)
 |[Heroku Scheduler](https://elements.heroku.com/addons/scheduler)|Tasks that need to run at regular intravels or at a particualr time everyday.|free
 |[Sidekiq](https://github.com/mperham/sidekiq)|Simple & efficient background processing.
-|[Rack Canonical Host](https://github.com/tylerhunt/rack-canonical-host)|
+|[Rack Canonical Host](https://github.com/tylerhunt/rack-canonical-host)|Redirect to the primary domain for the application.
+|[Rack::Timeout](https://github.com/sharpstone/rack-timeout)|Timeout app so we can get notified before Heroku kills the request that runs over 30s.
 
-* Heroku
-* Heroku Postgres
-* Heroku Scheduler
-* Redis Server
-* Sidekiq
-* rack-cononical-host
-* rack-timeout
 
 ### Application Monitoring 🕵️‍♂️
-* Cloudflare
-* raygun
-* Sqreen
-* Skylight
-* Papertrail
-* lograge, lograge-sql
-* logstop
+|Name|Details|Pricing
+|--|--|--|
+|[Cloudflare](https://www.cloudflare.com)|DNS service with request monitoring, DDoS protection and other security features.|[from $0/mo](https://www.cloudflare.com/en-gb/plans/)
+|[RayGun](https://raygun.com)|Production app error monitoring, crash reporting & notifications.|[from $9/mo](https://elements.heroku.com/addons/raygun)
+|[Skylight](https://www.skylight.io)|App performance monitoring & insights to optomise for faster app response.|[from $20/mo](https://www.skylight.io/pricing)
+|[Papertrail](https://www.papertrail.com)|Server logs archive and management.|[from $8/mo](https://elements.heroku.com/addons/papertrail)
+|[Lograge](https://github.com/roidrage/lograge)|Tame Rails' request logging.
+|[Lograge::Sql](https://github.com/iMacTia/lograge-sql)|Extension to Lograge gem for taming SQL queries.
+|[Logstop](https://github.com/ankane/logstop)|Remove personally identifiable information (PII) out of logs.
 
 
 ### Security 🔒
+|Name|Details|Pricing
+|--|--|--|
+|[Sqreen](https://www.sqreen.com)|Application level security platform.|[from $0/mo](https://www.sqreen.com)
+
 * devise security
 * blind_index
 * lockbox
