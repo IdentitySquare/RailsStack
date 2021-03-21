@@ -45,13 +45,11 @@ All pricing below are for a small to medium sized production application with mo
 |Name|Details|Pricing
 |--|--|--|
 |[Sqreen](https://www.sqreen.com)|Application level security platform.|[from $0/mo](https://www.sqreen.com)
-
-* devise security
-* blind_index
-* lockbox
-* strong_password
-* rack-attack
-
+|[Rack::Attack](https://github.com/rack/rack-attack)|Block and throttle abusive requests.
+|[Devise Security](https://github.com/devise-security/devise-security)|Devise gem extension to add additional security features for modern web applications.
+|[Lockbox](https://github.com/ankane/lockbox)|Database fields encryption.
+|[Blind Index](https://github.com/ankane/blind_index)|Securely search encrypted database fields.
+|[StrongPassword](https://github.com/bdmac/strong_password)|Password strength validation. Don't allow weak passwords.
 
 ## Rails Features
 
