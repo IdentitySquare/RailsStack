@@ -6,7 +6,7 @@ Our preferred list of commonly used Ruby gems, tools &amp; services we like to u
 
 # 💎 Gems, Libraries & Services
 
-All pricing below are for a small to medium sized production application with more than 100 active users. 
+Pricing below are for a small to medium sized production application with more than 100 active users. 
 
 ## Server
 
