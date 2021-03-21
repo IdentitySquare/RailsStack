@@ -50,25 +50,26 @@ All pricing below are for a small to medium sized production application with mo
 |[Lockbox](https://github.com/ankane/lockbox)|Database fields encryption.
 |[Blind Index](https://github.com/ankane/blind_index)|Securely search encrypted database fields.
 |[StrongPassword](https://github.com/bdmac/strong_password)|Password strength validation. Don't allow weak passwords.
+|[ValidEmail2](https://github.com/micke/valid_email2)|Validate email address, prevent disposable emails and blacklist domains.
 
 ## Rails Features
 
 ### User Accounts & Permissions 👤
 |Name|Details|Pricing
 |--|--|--|
+|[Devise](https://github.com/heartcombo/devise)|User authentication system.
+|[OmniAuth](https://github.com/omniauth/omniauth)|External provider authentication. e.g. Connect with Google, Facebook, etc.
+|[Pundit](https://github.com/varvet/pundit)|User authorization system.
+|[Pretender](https://github.com/ankane/pretender)|Login as any user in the platform as an admin.
 
-* Devise
-* Omniauth (Google + Facebook)
-* Pundit
-* strong password
-* pretender
-* valid_email2
 
 ### Records 💿
-* Friendly IDs
-* paper_trail
-* acts_as_paranoid
-* AASM
+|Name|Details|Pricing
+|--|--|--|
+|[FriendlyId](https://github.com/norman/friendly_id)|Hide database row IDs and produce SEO friendly URLs.
+|[PaperTrail](https://github.com/paper-trail-gem/paper_trail)|Track changes to our records for auditing and versioning.
+|[ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid)|Soft delete records.
+|[AASM](https://github.com/aasm/aasm)|State machine.
 
 ### Front-end Helpers 🚇
 * Kaminari
