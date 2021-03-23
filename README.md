@@ -28,6 +28,7 @@ Pricing below are for a small to medium sized production application with more t
 |[Sidekiq](https://github.com/mperham/sidekiq)|Simple & efficient background processing.
 |[Rack Canonical Host](https://github.com/tylerhunt/rack-canonical-host)|Redirect to the primary domain for the application.
 |[Rack::Timeout](https://github.com/sharpstone/rack-timeout)|Timeout app so we can get notified before Heroku kills the request that runs over 30s.
+|[SendGrid](http://sendgrid.com)|Transactional email delivery.|[from $15/mo](https://sendgrid.com/pricing/)
 
 
 ### Application Monitoring 🕵️‍♂️
