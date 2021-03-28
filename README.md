@@ -109,7 +109,7 @@ Pricing below are for a small to medium sized production application with more t
 |Name|Details|Pricing
 |--|--|--|
 |[RSpec](https://github.com/rspec/rspec)|Testing framework.
-|[factory_bit](https://github.com/thoughtbot/factory_bot)|Define model patters and strategies for testing. 
+|[factory_bot](https://github.com/thoughtbot/factory_bot)|Define model patters and strategies for testing. 
 |[Faker](https://github.com/faker-ruby/faker)|Mock test data.
 |[Shoulda Matchers](https://github.com/thoughtbot/shoulda-matchers)|One-liner common Rails functionality tests helper.
 |[Capybara](https://github.com/teamcapybara/capybara)|User acceptance testing by simulating how real users would interact with our app.
