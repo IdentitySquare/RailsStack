@@ -70,7 +70,7 @@ Pricing below are for a small to medium sized production application with more t
 |--|--|--|
 |[FriendlyId](https://github.com/norman/friendly_id)|Hide database row IDs and produce SEO friendly URLs.
 |[PaperTrail](https://github.com/paper-trail-gem/paper_trail)|Track changes to our records for auditing and versioning.
-|[ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid)|Soft delete records.
+|[Paranoia](https://github.com/rubysherpas/paranoia)|Soft delete records.
 |[AASM](https://github.com/aasm/aasm)|State machine.
 
 ### Front-end Helpers 🚇
