@@ -11,13 +11,13 @@ This document describes how individual tasks are approved, tested, merged, and d
 ### 1.2 🔖 Temporary Branches
 Disposable branches that can be created for proposed changes. 
 
-Format: `#{type}/#{ticket-id}_#{title}`
+Format: `#{type}/#{ticket-id}/#{title}`
 
 * Type: `feature`, `bugfix`, `hotfix`, `experimental`
 * Ticket ID: Jira, GitHub Issues or other task management tool's unique ID for the ticket that describes the task that this branch addresses.
 * Title: Short readable title for the branch with words separated by `-`.
 
-e.g. `feature/JIRA-1234_support-dark-theme`
+e.g. `feature/JIRA-1234/support-dark-theme`
 
 
 # 2. 📦 Issue Type
