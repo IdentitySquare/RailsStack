@@ -101,7 +101,7 @@ Pricing below are for a small to medium sized production application with more t
 |Name|Details|Pricing
 |--|--|--|
 |[Rubocop](https://github.com/rubocop/rubocop)|Ruby static code analyzer and code formatter. Install auto-correct plugin in your code editor.
-|[Code Climate](https://codeclimate.com/quality/)|Automated code review. Setup Rubycop, [Breakman](https://github.com/presidentbeef/brakeman) and other code review plugins via Code Climate for each PR.|[from $0/mo](https://codeclimate.com/quality/pricing/)
+|[Deep Source](https://deepsource.io)|Automated code review & static code analysis. Setup Rubycop, [Breakman](https://github.com/presidentbeef/brakeman) and other code review plugins for each PR.|[from $0/mo](https://deepsource.io/pricing/)
 |[Strong Migrations](https://github.com/ankane/strong_migrations)|Catch unsafe migrations in development.
 |[Bullet](https://github.com/flyerhzm/bullet)|Improve app performance by reducing the number of queries it makes.
 
