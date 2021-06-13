@@ -1,4 +1,5 @@
 
+
 # Local System Setup [macOS]
 
 Initial setup: 
@@ -7,13 +8,23 @@ Initial setup:
 * Hardware encryption with backup key stored in iCloud
 
 
-* Safari
+* Safari (Default Browser)
 * RayCast
 * Endpoint Management
 
 ### Terminal
-* iTerm
-*
+* iTerm2
+* Zsh
+* Oh-My-Zsh
+* Powerline
+
+Plugins:
+* git
+* Ruby + Rails
+* autojump
+* Duplicate tab on iTerm2
+
+https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99
 
 
 ### Development Environment Setup
@@ -71,3 +82,4 @@ Initial setup:
 * Delete whole line
 * Delete last word
 * Delete last sentence
+* Show hidden files on finder
