@@ -71,7 +71,17 @@ https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f
 * Figma
 * Miro
 * Jira
+* Linear
 * GitHub
+
+
+### Mobile Apps to Install
+* Work Calendar 
+* Work Email
+* Authenticator app for 2FA
+* Slack
+* Linear
+
 
 ---
 
