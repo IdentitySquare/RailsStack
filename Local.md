@@ -81,6 +81,8 @@ https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f
 * Authenticator app for 2FA
 * Slack
 * Linear
+* Around 
+* Zoom
 
 
 ---
