@@ -44,6 +44,7 @@ https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f
 * Atom / SublimeText /  VSCode
 * Plugins: 
 * TabNine
+* RuboCop Autocorrect
 
 ### Communication
 * Slack
@@ -90,8 +91,9 @@ https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f
 # Keyboard Shortcuts to Learn
 * Spotlight / RayCast & using it for opening apps 
 * Switch applications
-* Screenshot
+* Screenshot full screen + section
 * Delete whole line
 * Delete last word
 * Delete last sentence
 * Show hidden files on finder
+* Change/find files quickly in code editor
