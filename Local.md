@@ -123,12 +123,12 @@ For speed and efficiency!
 
 |Name|Details|
 |--|--|
-|Spotlight / RayCast & using it for opening apps|| 
-|Switch applications||
-|Screenshot full screen + section||
+|Spotlight / RayCast & using it for opening apps| `⌘` + `space`| 
+|Switch applications|`⌘` + `tab`|
+|Screenshot full screen + section|`⌘` + `shift` + `3`  /  `⌘` + `shift` + `4` |
 |Delete whole line||
-|Delete last word||
-|Delete last sentence||
-|Show hidden files on finder||
-|Change/find files quickly in code editor||
+|Delete last word|`option` + `delete`|
+|Delete last sentence|`⌘` + `delete`|
+|Show hidden files on finder|`⌘` + `shift` + `.`|
+|Change/find files quickly in code editor|`⌘` + `P`|
 
