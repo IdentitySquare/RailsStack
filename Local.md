@@ -29,22 +29,47 @@ Items marked with ':balance_scale:' are products or services that have both free
 |[Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)|Allows you add amazing plugins and themes to zsh|
 
 
-#### :electric_plug:  [**Plugins**](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)
-After you set up Oh-My-Zsh, you will have to edit the hidden file './zshrc' to change themes and add useful plugins. Type 'open ./zshrc' in your terminal to find and edit it. These are the plugins to install.
 
+### Customising your terminal
+After you set up Oh-My-Zsh, you will have to edit the hidden file './zshrc' to change themes and add useful plugins. Open in through your terminal to find and edit it. 
+```
+open ~./zshrc
+```
+#### :rainbow: Theme
+Set this theme in your './zshrc' file. 
+```
+ZSH_THEME="powerlevel10k/powerlevel10k"
+```
+Then close and reopen iTerm. You will get prompts (like [this](https://github.com/romkatv/powerlevel10k#configuration-wizard)). Simply choose your preferences!
+
+#### :electric_plug:  Plugins
+These are the plugins to install. Before you put them in, check that you have the prerequisites in the [docs](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/)
 * `git`
 * `Ruby`
 * `Rails`
 * `autojump`
 
+```
+# Which plugins would you like to load?
+# Standard plugins can be found in $ZSH/plugins/
+# Custom plugins may be added to $ZSH_CUSTOM/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+# Add wisely, as too many plugins slow down shell startup.
+
+plugins=(git
+	rails
+	autojump
+	ruby
+)
+```
 ## Development Environment 
 
 |Name|Details
 |--|--|
 |[Xcode](https://developer.apple.com/xcode/)|This needs to be installed because a lot of tools we use in ruby depends on the Xcode compiler!| 
-|[Ruby](https://www.ruby-lang.org/en/)|A dynamic, open source programming language with a focus on simplicity and productivity|
-|[Rails](https://rubyonrails.org)| A web application development framework for Ruby|
-|[Redis](https://redis.io/download)|Used for cache, jobs queue|
+|[Ruby](https://www.ruby-lang.org/en/downloads/)|A dynamic, open source programming language with a focus on simplicity and productivity|
+|[Rails](https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project-installing-rails)| A web application development framework for Ruby|
+|[Redis](https://gist.github.com/tomysmile/1b8a321e7c58499ef9f9441b2faa0aa8)|Used for cache, jobs queue|
 |[Postgres](https://postgresapp.com)|Our primary SQL database for record storage|
 
 ## Programming tools  🛠
@@ -62,22 +87,21 @@ Any of these code editors are recommended.
 
 #### :electric_plug: Plugins
 
-* `Tabnine` - An AI tool that predicts what you're going to type!
-* `Rubocop autocorrect` - A code analyser and format checker to make sure your code look good
+* [Tabnine](https://www.tabnine.com/install)- An AI tool that predicts what you're going to type!
+* [Rubocop autocorrect](https://atom.io/packages/rubocop-auto-correct) - A code analyser and format checker to make sure your code look good
 
 ## Communication :telephone_receiver:
 |Name|Details|
 |--|--|
-|[Slack](https://slack.com/intl/en-ie/)|The main way to communicate with the team.:asterisk:| 
-|[Apple calendar](https://apps.apple.com/us/app/calendar/id1108185179)/ [Fantastical](https://apps.apple.com/us/app/fantastical-calendar-tasks/id718043190) :heavy_dollar_sign:| To have all your meetings and engagements in one place|
-|[Apple Mail](https://apps.apple.com/us/app/mail/id1108187098)/[Superhuman](https://superhuman.com) :heavy_dollar_sign:|For fast and seamless emailing :asterisk:|
+|[Slack](https://slack.com/intl/en-ie/)* |The main way to communicate with the team.| 
+|[Apple calendar](https://apps.apple.com/us/app/calendar/id1108185179)/ [Fantastical](https://apps.apple.com/us/app/fantastical-calendar-tasks/id718043190) :heavy_dollar_sign: ** | To have all your meetings and engagements in one place|
+|[Apple Mail](https://apps.apple.com/us/app/mail/id1108187098)/[Superhuman](https://superhuman.com) :heavy_dollar_sign:|For fast and seamless emailing |
 |[Loom](https://www.loom.com/)|To create and share screen recordings|
-|[Around](https://www.around.co)|A fun video calling tool :asterisk:|
+|[Around](https://www.around.co)*|A fun video calling tool |
 |[Zoom](https://zoom.us)|For video call, when Around doesn't work|
-
-:asterisk: Request invitation links from IT to our Slack channel and Around Rooms if you haven't received them.
-
-:asterisk: Please set up your work email on your calendar, so you'll get notified when meetings are scheduled.
+ 
+\* Request invitation links from IT to our Slack channel and Around Rooms if you haven't received them.\
+** Please set up your work email on your calendar, so you'll get notified when meetings are scheduled.
 
 ## Organisation  :nerd_face:
 |Name|Details|
@@ -85,7 +109,7 @@ Any of these code editors are recommended.
 |[Apple notes](https://support.apple.com/en-ie/HT205773)|To jot down quick notes| 
 |[Bear](https://bear.app) :balance_scale:|Note taking app with additional functionality|
 |[Apple Reminders](https://support.apple.com/en-ie/HT205890)|To keep track of tasks|
-|[1 Password](https://1password.com) :heavy_dollar_sign:|Creates and stores strong passwords |
+|[1 Password](https://1password.com) :heavy_dollar_sign: :asterisk:|Creates and stores strong passwords |
 |[Swish](https://highlyopinionated.co/swish/) :heavy_dollar_sign:|To control windows using trackpad gestures|
 
 :asterisk: Request invitation links to our team account to access secret keys for projects
@@ -107,21 +131,20 @@ These are some other useful tools we use and why we use them :)
 :asterisk: Request invitation our team Github account if you haven't received one yet
 
 ## Mobile Apps  :iphone:
-It will be useful to get the mobile version for some of the above apps also.
+It will be useful to get the mobile version for some of the above apps also. For example, Slack sends mobile notification if you are specifically mentioned, meanin g you don't miss something important, even if you're not at the desktop. You can also reduce the number of notifications in your email inbox this way.
 
 * Calendar
 * Email
 * [Authenticator app 2FA](https://authy.com)
-* Slack
-* Linear
-* Around
-* Zoom
+* [Slack](https://apps.apple.com/us/app/slack/id618783545)
+* [Around](https://apps.apple.com/ie/app/around/id1558224935)
+* [Zoom](https://apps.apple.com/ie/app/zoom-cloud-meetings/id546505307)
 
 ## Keyboard Shortcuts to learn :cowboy_hat_face:
 
 For speed and efficiency!
 
-|Name|Details|
+|Name|Command|
 |--|--|
 |Spotlight / RayCast & using it for opening apps| `⌘` + `space`| 
 |Switch applications|`⌘` + `tab`|
@@ -131,4 +154,3 @@ For speed and efficiency!
 |Delete last sentence|`⌘` + `delete`|
 |Show hidden files on finder|`⌘` + `shift` + `.`|
 |Change/find files quickly in code editor|`⌘` + `P`|
-
