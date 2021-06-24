@@ -1,5 +1,8 @@
 
-# Local System Setup [macOS]
+# Welcome to Identity Square! 🎉 [macOS]
+
+We're excited to have you join our team. Let's get you started.
+
 
 | Emoji | Key |
 |--|--|
