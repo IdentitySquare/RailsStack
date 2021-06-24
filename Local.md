@@ -66,7 +66,7 @@ plugins=(git rails autojump ruby)
 |Name|Details
 |--|--|
 |[Ruby](https://www.ruby-lang.org/en/downloads/)|Install Ruby versions needed.|
-|[RVM](https://www.driftingruby.com/episodes/a-rubyist-s-apple-m1-review)/[rbenv](https://github.com/rbenv/rbenv)| Ruby version manager.|
+|[RVM](https://www.driftingruby.com/episodes/a-rubyist-s-apple-m1-review) / [rbenv](https://github.com/rbenv/rbenv)| Ruby version manager.|
 |[Redis](https://gist.github.com/tomysmile/1b8a321e7c58499ef9f9441b2faa0aa8)|Used for cache, jobs queue.|
 |[Postgres](https://postgresapp.com)|Our primary SQL database.|
 
@@ -81,7 +81,7 @@ plugins=(git rails autojump ruby)
 Our preferred code editors: 
 
 1. [Atom](https://atom.io)
-2. [SublimeText ](https://www.sublimetext.com) :heavy_dollar_sign:
+2. [SublimeText](https://www.sublimetext.com) :heavy_dollar_sign:
 3. [VSCode](https://code.visualstudio.com)
 
 #### :electric_plug: Plugins
@@ -94,8 +94,8 @@ Our preferred code editors:
 |Name|Details|
 |--|--|
 |[Slack](https://slack.com/intl/en-ie/) 💳🎟 |Our preferred way quickly communicate & ask questions.| 
-|[Apple calendar](https://apps.apple.com/us/app/calendar/id1108185179)/ [Fantastical](https://apps.apple.com/us/app/fantastical-calendar-tasks/id718043190) :heavy_dollar_sign: | Setup to get notified of cal invites, events & any event updates.|
-|[Apple Mail](https://apps.apple.com/us/app/mail/id1108187098)/[Superhuman](https://superhuman.com) :heavy_dollar_sign:| Email notifications |
+|[Apple calendar](https://apps.apple.com/us/app/calendar/id1108185179) / [Fantastical](https://apps.apple.com/us/app/fantastical-calendar-tasks/id718043190) :heavy_dollar_sign: | Setup to get notified of cal invites, events & any event updates.|
+|[Apple Mail](https://apps.apple.com/us/app/mail/id1108187098) / [Superhuman](https://superhuman.com) :heavy_dollar_sign:| Email notifications |
 |[Loom](https://www.loom.com/)|Record and share quick screencasts.|
 |[Around](https://www.around.co) 🎟| Less-official feeling team calls to avoid 'Zoom fatigue'. |
 |[Zoom](https://zoom.us)|For external meetings.|
@@ -104,7 +104,7 @@ Our preferred code editors:
 ## Organisation  :nerd_face:
 |Name|Details|
 |--|--|
-|[Apple notes](https://support.apple.com/en-ie/HT205773)/[Bear](https://bear.app) :heavy_dollar_sign:|To jot down quick notes.| 
+|[Apple notes](https://support.apple.com/en-ie/HT205773) / [Bear](https://bear.app) :heavy_dollar_sign:|To jot down quick notes.| 
 |[Apple Reminders](https://support.apple.com/en-ie/HT205890)|For your personal tasks that can't be tracked on our project management tool. E.g. emails to send, to ring someone, etc.|
 |[1Password](https://1password.com) 💳🎟| Create, store strong passwords and access shared secrets. Request invite to team. |
 |[Swish](https://highlyopinionated.co/swish/) :heavy_dollar_sign:|Control windows using gestures.|
@@ -117,7 +117,7 @@ Our preferred code editors:
 |[Dropbox Paper](https://www.dropbox.com/paper)|We use this for quickly scoping out technical documents. A free flow sheet for adding notes, embedding videos, images, code, etc.|
 |[Figma](https://www.figma.com)|A wire framing tool for designing apps and mockups.|
 |[Miro](https://www.miro.com)|Ideas planning and collaboration sessions.|
-|[Jira](https://www.atlassian.com/software/jira)/[Linear](https://linear.app) 💳🎟|Helps streamline software projects, sprints and tasks.|
+|[Jira](https://www.atlassian.com/software/jira) / [Linear](https://linear.app) 💳🎟|Helps streamline software projects, sprints and tasks.|
 |[Github](https://www.github.com) 🎟|Our central hub for all our code.|
 |[Google Drive](https://drive.google.com) |Shared docs, slides and sheets.| 
 
@@ -129,7 +129,7 @@ Our preferred code editors:
 * [Slack](https://apps.apple.com/us/app/slack/id618783545)
 * [Around](https://apps.apple.com/ie/app/around/id1558224935)
 * [Zoom](https://apps.apple.com/ie/app/zoom-cloud-meetings/id546505307)
-*  [1Password](https://apps.apple.com/app/1password-password-manager/id568903335) 💳🎟
+* [1Password](https://apps.apple.com/app/1password-password-manager/id568903335) 💳🎟
 
 ## Keyboard Shortcuts to Memorize & Use :cowboy_hat_face:
 |Name|Command|
