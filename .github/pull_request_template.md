@@ -1,30 +1,24 @@
-## 📜 Description
-<!-- Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change. -->
-<!-- Include link to the task's ticket. -->
+<!-- ## 📜 Description -->
+<!-- 
+1. Outline the feature or fix that this PR is introducing. 
+2. Relevant motivation and contex - the reason why.
+3. What did you research and learn for how to best do this? 
+4. Why did you decide to implement this in the way you did?
+-->
 
-...
-
-## 🧪 How Has This Been Tested?
-<!-- Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration -->
-
-- [ ] Test A
-- [ ] Test B
-
-## 🖼 Proof of Work
+<!-- ## 🖼 Proof of Work -->
 <!-- Please include screenshots, video, gif, etc. -->
 
-...
+<!-- ## ✅ PR Checklist
 
-
-## ✅ Checklist
-
-- [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
+- [ ] New and existing unit tests pass with my changes
+- [ ] I have made corresponding changes to the documentation
+
+- [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] I have reviewed my code for security vulnerabilities
 - [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
 - [ ] I have checked my code and corrected any misspellings
+- [ ] My code follows the style guidelines of this project
+
+-->
