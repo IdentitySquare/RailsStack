@@ -120,7 +120,7 @@ Pricing below are for a small to medium sized production application with more t
 |Name|Details|Pricing
 |--|--|--|
 |[GitHub Teams](https://github.com/team)|Codebase, version control & developer hub.|[$4 per user/mo](https://github.com/pricing)
-|[Better Errors](https://github.com/pricing)|Better and more useful error pages.
+|[Better Errors](https://github.com/BetterErrors/better_errors)|Better and more useful error pages.
 |[Awesome Print](https://github.com/awesome-print/awesome_print)|Pretty print logs and indentation.
 |[Annotate](https://github.com/ctran/annotate_models)|Add summarizing schema as comments for quick reference at the top of files.
 |[Letter Opener](https://github.com/ryanb/letter_opener)|Open and view emails in the browser in development.
